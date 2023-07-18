@@ -20,9 +20,8 @@ externalLink: false
         <img class="image" src="{{ site.url }}/assets/images/joseign/01.jpg" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
-
     <div class="toright">
-        <img class="image" src="{{ site.url }}/assets/images/joseign/02.jpg}" alt="Alt Text">
+        <img class="image" src="{{ site.url }}/assets/images/joseign/02.jpg" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 </div>
