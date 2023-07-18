@@ -1,6 +1,6 @@
 # main text of home
 title: Nicolas Gutierrez
-bio: Hi, I'm a backend engineer working on fraud prevention for Koin, previously Despegar, dlocal.
+bio: Hi, I'm a backend engineer working on fraud prevention for Koin. previously Despegar, dlocal. I also love photography <3
 
 # twitter summary info
 description: Hi, I'm a backend engineer
@@ -20,7 +20,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://gutinicolas.github.io
+url: https://gutinicolas.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
